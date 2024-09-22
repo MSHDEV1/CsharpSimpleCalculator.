@@ -1,0 +1,7 @@
+C:\Users\osman\source\repos\mshcalculator\mshcalculator\bin\Debug\mshcalculator.exe.config
+C:\Users\osman\source\repos\mshcalculator\mshcalculator\bin\Debug\mshcalculator.exe
+C:\Users\osman\source\repos\mshcalculator\mshcalculator\bin\Debug\mshcalculator.pdb
+C:\Users\osman\source\repos\mshcalculator\mshcalculator\obj\Debug\mshcalculator.csproj.AssemblyReference.cache
+C:\Users\osman\source\repos\mshcalculator\mshcalculator\obj\Debug\mshcalculator.csproj.CoreCompileInputs.cache
+C:\Users\osman\source\repos\mshcalculator\mshcalculator\obj\Debug\mshcalculator.exe
+C:\Users\osman\source\repos\mshcalculator\mshcalculator\obj\Debug\mshcalculator.pdb
